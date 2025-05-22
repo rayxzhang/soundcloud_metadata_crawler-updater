@@ -1,0 +1,7 @@
+mutagen>=1.45.1
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2
+requests>=2.28.1
+beautifulsoup4>=4.9.3
+selenium>=4.15.2
+webdriver-manager>=4.0.1 
